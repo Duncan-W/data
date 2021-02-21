@@ -1,0 +1,1135 @@
+,Date,State_ID,Production
+1,2010-1-1,Republic of Macedonia,24340
+2,2010-1-1,Vardar Region,399
+3,2010-1-1,East Region,562
+4,2010-1-1,Southwest Region,3804
+5,2010-1-1,Southeast Region,2726
+6,2010-1-1,Pelagonia Region,1493
+7,2010-1-1,Polog Region,5082
+8,2010-1-1,Northeast Region,202
+9,2010-1-1,Skopje Region,10072
+10,2010-2-1,Republic of Macedonia,26765
+11,2010-2-1,Vardar Region,883
+12,2010-2-1,East Region,726
+13,2010-2-1,Southwest Region,4066
+14,2010-2-1,Southeast Region,3468
+15,2010-2-1,Pelagonia Region,1239
+16,2010-2-1,Polog Region,3741
+17,2010-2-1,Northeast Region,313
+18,2010-2-1,Skopje Region,12329
+19,2010-3-1,Republic of Macedonia,29167
+20,2010-3-1,Vardar Region,801
+21,2010-3-1,East Region,805
+22,2010-3-1,Southwest Region,4740
+23,2010-3-1,Southeast Region,2326
+24,2010-3-1,Pelagonia Region,1469
+25,2010-3-1,Polog Region,2004
+26,2010-3-1,Northeast Region,170
+27,2010-3-1,Skopje Region,16852
+28,2010-4-1,Republic of Macedonia,36288
+29,2010-4-1,Vardar Region,736
+30,2010-4-1,East Region,941
+31,2010-4-1,Southwest Region,12682
+32,2010-4-1,Southeast Region,2740
+33,2010-4-1,Pelagonia Region,1948
+34,2010-4-1,Polog Region,1381
+35,2010-4-1,Northeast Region,201
+36,2010-4-1,Skopje Region,15659
+37,2010-5-1,Republic of Macedonia,60773
+38,2010-5-1,Vardar Region,967
+39,2010-5-1,East Region,1165
+40,2010-5-1,Southwest Region,26510
+41,2010-5-1,Southeast Region,2838
+42,2010-5-1,Pelagonia Region,3523
+43,2010-5-1,Polog Region,1727
+44,2010-5-1,Northeast Region,335
+45,2010-5-1,Skopje Region,23708
+46,2010-6-1,Republic of Macedonia,58958
+47,2010-6-1,Vardar Region,1213
+48,2010-6-1,East Region,1081
+49,2010-6-1,Southwest Region,28234
+50,2010-6-1,Southeast Region,2954
+51,2010-6-1,Pelagonia Region,3495
+52,2010-6-1,Polog Region,1268
+53,2010-6-1,Northeast Region,689
+54,2010-6-1,Skopje Region,20024
+55,2010-7-1,Republic of Macedonia,71175
+56,2010-7-1,Vardar Region,3099
+57,2010-7-1,East Region,1161
+58,2010-7-1,Southwest Region,37945
+59,2010-7-1,Southeast Region,3922
+60,2010-7-1,Pelagonia Region,5022
+61,2010-7-1,Polog Region,2438
+62,2010-7-1,Northeast Region,334
+63,2010-7-1,Skopje Region,17254
+64,2010-8-1,Republic of Macedonia,77262
+65,2010-8-1,Vardar Region,969
+66,2010-8-1,East Region,944
+67,2010-8-1,Southwest Region,44407
+68,2010-8-1,Southeast Region,4591
+69,2010-8-1,Pelagonia Region,3291
+70,2010-8-1,Polog Region,2237
+71,2010-8-1,Northeast Region,360
+72,2010-8-1,Skopje Region,20463
+73,2010-9-1,Republic of Macedonia,60354
+74,2010-9-1,Vardar Region,1745
+75,2010-9-1,East Region,1270
+76,2010-9-1,Southwest Region,26944
+77,2010-9-1,Southeast Region,4530
+78,2010-9-1,Pelagonia Region,3358
+79,2010-9-1,Polog Region,1417
+80,2010-9-1,Northeast Region,497
+81,2010-9-1,Skopje Region,20593
+82,2010-10-1,Republic of Macedonia,49256
+83,2010-10-1,Vardar Region,1035
+84,2010-10-1,East Region,821
+85,2010-10-1,Southwest Region,15773
+86,2010-10-1,Southeast Region,4205
+87,2010-10-1,Pelagonia Region,3080
+88,2010-10-1,Polog Region,1349
+89,2010-10-1,Northeast Region,285
+90,2010-10-1,Skopje Region,22708
+91,2010-11-1,Republic of Macedonia,35756
+92,2010-11-1,Vardar Region,632
+93,2010-11-1,East Region,1093
+94,2010-11-1,Southwest Region,8010
+95,2010-11-1,Southeast Region,3770
+96,2010-11-1,Pelagonia Region,2046
+97,2010-11-1,Polog Region,1482
+98,2010-11-1,Northeast Region,293
+99,2010-11-1,Skopje Region,18430
+100,2010-12-1,Republic of Macedonia,28938
+101,2010-12-1,Vardar Region,728
+102,2010-12-1,East Region,614
+103,2010-12-1,Southwest Region,6185
+104,2010-12-1,Southeast Region,4063
+105,2010-12-1,Pelagonia Region,2226
+106,2010-12-1,Polog Region,2173
+107,2010-12-1,Northeast Region,243
+108,2010-12-1,Skopje Region,12706
+109,2011-1-1,Republic of Macedonia,26775
+110,2011-1-1,Vardar Region,341
+111,2011-1-1,East Region,587
+112,2011-1-1,Southwest Region,4688
+113,2011-1-1,Southeast Region,4139
+114,2011-1-1,Pelagonia Region,1683
+115,2011-1-1,Polog Region,4336
+116,2011-1-1,Northeast Region,211
+117,2011-1-1,Skopje Region,10790
+118,2011-2-1,Republic of Macedonia,31974
+119,2011-2-1,Vardar Region,1003
+120,2011-2-1,East Region,636
+121,2011-2-1,Southwest Region,4516
+122,2011-2-1,Southeast Region,7870
+123,2011-2-1,Pelagonia Region,993
+124,2011-2-1,Polog Region,3430
+125,2011-2-1,Northeast Region,178
+126,2011-2-1,Skopje Region,13348
+127,2011-3-1,Republic of Macedonia,38933
+128,2011-3-1,Vardar Region,982
+129,2011-3-1,East Region,1116
+130,2011-3-1,Southwest Region,8673
+131,2011-3-1,Southeast Region,7191
+132,2011-3-1,Pelagonia Region,1878
+133,2011-3-1,Polog Region,2294
+134,2011-3-1,Northeast Region,204
+135,2011-3-1,Skopje Region,16595
+136,2011-4-1,Republic of Macedonia,46803
+137,2011-4-1,Vardar Region,1050
+138,2011-4-1,East Region,921
+139,2011-4-1,Southwest Region,14823
+140,2011-4-1,Southeast Region,7805
+141,2011-4-1,Pelagonia Region,2030
+142,2011-4-1,Polog Region,1213
+143,2011-4-1,Northeast Region,479
+144,2011-4-1,Skopje Region,18482
+145,2011-5-1,Republic of Macedonia,71097
+146,2011-5-1,Vardar Region,843
+147,2011-5-1,East Region,922
+148,2011-5-1,Southwest Region,31887
+149,2011-5-1,Southeast Region,7321
+150,2011-5-1,Pelagonia Region,3284
+151,2011-5-1,Polog Region,1248
+152,2011-5-1,Northeast Region,508
+153,2011-5-1,Skopje Region,25084
+154,2011-6-1,Republic of Macedonia,77758
+155,2011-6-1,Vardar Region,2311
+156,2011-6-1,East Region,1441
+157,2011-6-1,Southwest Region,39525
+158,2011-6-1,Southeast Region,6718
+159,2011-6-1,Pelagonia Region,2682
+160,2011-6-1,Polog Region,1547
+161,2011-6-1,Northeast Region,598
+162,2011-6-1,Skopje Region,22936
+163,2011-7-1,Republic of Macedonia,116085
+164,2011-7-1,Vardar Region,3130
+165,2011-7-1,East Region,1488
+166,2011-7-1,Southwest Region,73825
+167,2011-7-1,Southeast Region,6704
+168,2011-7-1,Pelagonia Region,7971
+169,2011-7-1,Polog Region,2054
+170,2011-7-1,Northeast Region,592
+171,2011-7-1,Skopje Region,20321
+172,2011-8-1,Republic of Macedonia,116312
+173,2011-8-1,Vardar Region,1445
+174,2011-8-1,East Region,1541
+175,2011-8-1,Southwest Region,68709
+176,2011-8-1,Southeast Region,17170
+177,2011-8-1,Pelagonia Region,6334
+178,2011-8-1,Polog Region,1711
+179,2011-8-1,Northeast Region,560
+180,2011-8-1,Skopje Region,18842
+181,2011-9-1,Republic of Macedonia,88320
+182,2011-9-1,Vardar Region,2077
+183,2011-9-1,East Region,1566
+184,2011-9-1,Southwest Region,44639
+185,2011-9-1,Southeast Region,8589
+186,2011-9-1,Pelagonia Region,3918
+187,2011-9-1,Polog Region,1561
+188,2011-9-1,Northeast Region,518
+189,2011-9-1,Skopje Region,25452
+190,2011-10-1,Republic of Macedonia,69543
+191,2011-10-1,Vardar Region,1109
+192,2011-10-1,East Region,1186
+193,2011-10-1,Southwest Region,24969
+194,2011-10-1,Southeast Region,7380
+195,2011-10-1,Pelagonia Region,2806
+196,2011-10-1,Polog Region,849
+197,2011-10-1,Northeast Region,409
+198,2011-10-1,Skopje Region,30835
+199,2011-11-1,Republic of Macedonia,39612
+200,2011-11-1,Vardar Region,635
+201,2011-11-1,East Region,1040
+202,2011-11-1,Southwest Region,7019
+203,2011-11-1,Southeast Region,6318
+204,2011-11-1,Pelagonia Region,1837
+205,2011-11-1,Polog Region,1054
+206,2011-11-1,Northeast Region,321
+207,2011-11-1,Skopje Region,21388
+208,2011-12-1,Republic of Macedonia,31954
+209,2011-12-1,Vardar Region,547
+210,2011-12-1,East Region,794
+211,2011-12-1,Southwest Region,5445
+212,2011-12-1,Southeast Region,7269
+213,2011-12-1,Pelagonia Region,1672
+214,2011-12-1,Polog Region,1829
+215,2011-12-1,Northeast Region,251
+216,2011-12-1,Skopje Region,14147
+217,2012-1-1,Republic of Macedonia,34333
+218,2012-1-1,Vardar Region,416
+219,2012-1-1,East Region,955
+220,2012-1-1,Southwest Region,4227
+221,2012-1-1,Southeast Region,6440
+222,2012-1-1,Pelagonia Region,1816
+223,2012-1-1,Polog Region,6012
+224,2012-1-1,Northeast Region,197
+225,2012-1-1,Skopje Region,14270
+226,2012-2-1,Republic of Macedonia,29249
+227,2012-2-1,Vardar Region,832
+228,2012-2-1,East Region,892
+229,2012-2-1,Southwest Region,2299
+230,2012-2-1,Southeast Region,6752
+231,2012-2-1,Pelagonia Region,1370
+232,2012-2-1,Polog Region,3810
+233,2012-2-1,Northeast Region,297
+234,2012-2-1,Skopje Region,12997
+235,2012-3-1,Republic of Macedonia,36034
+236,2012-3-1,Vardar Region,668
+237,2012-3-1,East Region,1006
+238,2012-3-1,Southwest Region,4512
+239,2012-3-1,Southeast Region,6315
+240,2012-3-1,Pelagonia Region,1753
+241,2012-3-1,Polog Region,1974
+242,2012-3-1,Northeast Region,245
+243,2012-3-1,Skopje Region,19561
+244,2012-4-1,Republic of Macedonia,48232
+245,2012-4-1,Vardar Region,924
+246,2012-4-1,East Region,1564
+247,2012-4-1,Southwest Region,14078
+248,2012-4-1,Southeast Region,6350
+249,2012-4-1,Pelagonia Region,3332
+250,2012-4-1,Polog Region,746
+251,2012-4-1,Northeast Region,380
+252,2012-4-1,Skopje Region,20858
+253,2012-5-1,Republic of Macedonia,81114
+254,2012-5-1,Vardar Region,2750
+255,2012-5-1,East Region,2200
+256,2012-5-1,Southwest Region,38872
+257,2012-5-1,Southeast Region,5947
+258,2012-5-1,Pelagonia Region,3353
+259,2012-5-1,Polog Region,1268
+260,2012-5-1,Northeast Region,401
+261,2012-5-1,Skopje Region,26323
+262,2012-6-1,Republic of Macedonia,93817
+263,2012-6-1,Vardar Region,2617
+264,2012-6-1,East Region,1619
+265,2012-6-1,Southwest Region,51616
+266,2012-6-1,Southeast Region,6669
+267,2012-6-1,Pelagonia Region,3951
+268,2012-6-1,Polog Region,1473
+269,2012-6-1,Northeast Region,347
+270,2012-6-1,Skopje Region,25525
+271,2012-7-1,Republic of Macedonia,116020
+272,2012-7-1,Vardar Region,2683
+273,2012-7-1,East Region,1500
+274,2012-7-1,Southwest Region,70230
+275,2012-7-1,Southeast Region,8523
+276,2012-7-1,Pelagonia Region,8828
+277,2012-7-1,Polog Region,1958
+278,2012-7-1,Northeast Region,614
+279,2012-7-1,Skopje Region,21684
+280,2012-8-1,Republic of Macedonia,119174
+281,2012-8-1,Vardar Region,2699
+282,2012-8-1,East Region,1382
+283,2012-8-1,Southwest Region,72559
+284,2012-8-1,Southeast Region,11136
+285,2012-8-1,Pelagonia Region,8704
+286,2012-8-1,Polog Region,2060
+287,2012-8-1,Northeast Region,722
+288,2012-8-1,Skopje Region,19912
+289,2012-9-1,Republic of Macedonia,105216
+290,2012-9-1,Vardar Region,2043
+291,2012-9-1,East Region,2094
+292,2012-9-1,Southwest Region,58767
+293,2012-9-1,Southeast Region,8018
+294,2012-9-1,Pelagonia Region,5726
+295,2012-9-1,Polog Region,1056
+296,2012-9-1,Northeast Region,679
+297,2012-9-1,Skopje Region,26833
+298,2012-10-1,Republic of Macedonia,73828
+299,2012-10-1,Vardar Region,1675
+300,2012-10-1,East Region,1440
+301,2012-10-1,Southwest Region,30076
+302,2012-10-1,Southeast Region,6985
+303,2012-10-1,Pelagonia Region,3838
+304,2012-10-1,Polog Region,728
+305,2012-10-1,Northeast Region,589
+306,2012-10-1,Skopje Region,28497
+307,2012-11-1,Republic of Macedonia,42102
+308,2012-11-1,Vardar Region,1529
+309,2012-11-1,East Region,1002
+310,2012-11-1,Southwest Region,8302
+311,2012-11-1,Southeast Region,6035
+312,2012-11-1,Pelagonia Region,2886
+313,2012-11-1,Polog Region,834
+314,2012-11-1,Northeast Region,1122
+315,2012-11-1,Skopje Region,20392
+316,2012-12-1,Republic of Macedonia,32627
+317,2012-12-1,Vardar Region,826
+318,2012-12-1,East Region,774
+319,2012-12-1,Southwest Region,6625
+320,2012-12-1,Southeast Region,6943
+321,2012-12-1,Pelagonia Region,2441
+322,2012-12-1,Polog Region,2128
+323,2012-12-1,Northeast Region,512
+324,2012-12-1,Skopje Region,12378
+325,2013-1-1,Republic of Macedonia,30636
+326,2013-1-1,Vardar Region,752
+327,2013-1-1,East Region,782
+328,2013-1-1,Southwest Region,3174
+329,2013-1-1,Southeast Region,5388
+330,2013-1-1,Pelagonia Region,2198
+331,2013-1-1,Polog Region,6536
+332,2013-1-1,Northeast Region,242
+333,2013-1-1,Skopje Region,11564
+334,2013-2-1,Republic of Macedonia,31673
+335,2013-2-1,Vardar Region,1835
+336,2013-2-1,East Region,670
+337,2013-2-1,Southwest Region,1748
+338,2013-2-1,Southeast Region,5910
+339,2013-2-1,Pelagonia Region,2070
+340,2013-2-1,Polog Region,6389
+341,2013-2-1,Northeast Region,245
+342,2013-2-1,Skopje Region,12806
+343,2013-3-1,Republic of Macedonia,44169
+344,2013-3-1,Vardar Region,1371
+345,2013-3-1,East Region,956
+346,2013-3-1,Southwest Region,9021
+347,2013-3-1,Southeast Region,7500
+348,2013-3-1,Pelagonia Region,2921
+349,2013-3-1,Polog Region,3004
+350,2013-3-1,Northeast Region,496
+351,2013-3-1,Skopje Region,18900
+352,2013-4-1,Republic of Macedonia,53539
+353,2013-4-1,Vardar Region,1894
+354,2013-4-1,East Region,1187
+355,2013-4-1,Southwest Region,14744
+356,2013-4-1,Southeast Region,6561
+357,2013-4-1,Pelagonia Region,3032
+358,2013-4-1,Polog Region,964
+359,2013-4-1,Northeast Region,526
+360,2013-4-1,Skopje Region,24631
+361,2013-5-1,Republic of Macedonia,91148
+362,2013-5-1,Vardar Region,1980
+363,2013-5-1,East Region,2068
+364,2013-5-1,Southwest Region,46947
+365,2013-5-1,Southeast Region,7447
+366,2013-5-1,Pelagonia Region,4317
+367,2013-5-1,Polog Region,1178
+368,2013-5-1,Northeast Region,287
+369,2013-5-1,Skopje Region,26924
+370,2013-6-1,Republic of Macedonia,105510
+371,2013-6-1,Vardar Region,2655
+372,2013-6-1,East Region,1584
+373,2013-6-1,Southwest Region,59340
+374,2013-6-1,Southeast Region,7390
+375,2013-6-1,Pelagonia Region,4523
+376,2013-6-1,Polog Region,1452
+377,2013-6-1,Northeast Region,374
+378,2013-6-1,Skopje Region,28192
+379,2013-7-1,Republic of Macedonia,124633
+380,2013-7-1,Vardar Region,3114
+381,2013-7-1,East Region,2159
+382,2013-7-1,Southwest Region,69282
+383,2013-7-1,Southeast Region,13478
+384,2013-7-1,Pelagonia Region,9682
+385,2013-7-1,Polog Region,2027
+386,2013-7-1,Northeast Region,541
+387,2013-7-1,Skopje Region,24350
+388,2013-8-1,Republic of Macedonia,125672
+389,2013-8-1,Vardar Region,2843
+390,2013-8-1,East Region,1821
+391,2013-8-1,Southwest Region,79183
+392,2013-8-1,Southeast Region,8730
+393,2013-8-1,Pelagonia Region,6920
+394,2013-8-1,Polog Region,2371
+395,2013-8-1,Northeast Region,971
+396,2013-8-1,Skopje Region,22833
+397,2013-9-1,Republic of Macedonia,106400
+398,2013-9-1,Vardar Region,2377
+399,2013-9-1,East Region,2043
+400,2013-9-1,Southwest Region,55378
+401,2013-9-1,Southeast Region,9376
+402,2013-9-1,Pelagonia Region,4528
+403,2013-9-1,Polog Region,1613
+404,2013-9-1,Northeast Region,503
+405,2013-9-1,Skopje Region,30582
+406,2013-10-1,Republic of Macedonia,83906
+407,2013-10-1,Vardar Region,2071
+408,2013-10-1,East Region,1645
+409,2013-10-1,Southwest Region,34605
+410,2013-10-1,Southeast Region,8593
+411,2013-10-1,Pelagonia Region,5175
+412,2013-10-1,Polog Region,1184
+413,2013-10-1,Northeast Region,552
+414,2013-10-1,Skopje Region,30081
+415,2013-11-1,Republic of Macedonia,42965
+416,2013-11-1,Vardar Region,1948
+417,2013-11-1,East Region,1264
+418,2013-11-1,Southwest Region,7655
+419,2013-11-1,Southeast Region,6789
+420,2013-11-1,Pelagonia Region,2537
+421,2013-11-1,Polog Region,1399
+422,2013-11-1,Northeast Region,634
+423,2013-11-1,Skopje Region,20739
+424,2013-12-1,Republic of Macedonia,41124
+425,2013-12-1,Vardar Region,1806
+426,2013-12-1,East Region,1056
+427,2013-12-1,Southwest Region,7786
+428,2013-12-1,Southeast Region,8247
+429,2013-12-1,Pelagonia Region,2212
+430,2013-12-1,Polog Region,2729
+431,2013-12-1,Northeast Region,320
+432,2013-12-1,Skopje Region,16968
+433,2014-1-1,Republic of Macedonia,30928
+434,2014-1-1,Vardar Region,1477
+435,2014-1-1,East Region,948
+436,2014-1-1,Southwest Region,4598
+437,2014-1-1,Southeast Region,7017
+438,2014-1-1,Pelagonia Region,1932
+439,2014-1-1,Polog Region,4198
+440,2014-1-1,Northeast Region,205
+441,2014-1-1,Skopje Region,10553
+442,2014-2-1,Republic of Macedonia,33009
+443,2014-2-1,Vardar Region,1858
+444,2014-2-1,East Region,876
+445,2014-2-1,Southwest Region,3193
+446,2014-2-1,Southeast Region,7009
+447,2014-2-1,Pelagonia Region,1820
+448,2014-2-1,Polog Region,4849
+449,2014-2-1,Northeast Region,370
+450,2014-2-1,Skopje Region,13034
+451,2014-3-1,Republic of Macedonia,44985
+452,2014-3-1,Vardar Region,2646
+453,2014-3-1,East Region,1360
+454,2014-3-1,Southwest Region,9593
+455,2014-3-1,Southeast Region,7362
+456,2014-3-1,Pelagonia Region,3369
+457,2014-3-1,Polog Region,1649
+458,2014-3-1,Northeast Region,598
+459,2014-3-1,Skopje Region,18408
+460,2014-4-1,Republic of Macedonia,53019
+461,2014-4-1,Vardar Region,2303
+462,2014-4-1,East Region,1367
+463,2014-4-1,Southwest Region,16412
+464,2014-4-1,Southeast Region,6606
+465,2014-4-1,Pelagonia Region,3270
+466,2014-4-1,Polog Region,1090
+467,2014-4-1,Northeast Region,441
+468,2014-4-1,Skopje Region,21530
+469,2014-5-1,Republic of Macedonia,104162
+470,2014-5-1,Vardar Region,2485
+471,2014-5-1,East Region,1758
+472,2014-5-1,Southwest Region,51350
+473,2014-5-1,Southeast Region,7605
+474,2014-5-1,Pelagonia Region,6125
+475,2014-5-1,Polog Region,1506
+476,2014-5-1,Northeast Region,412
+477,2014-5-1,Skopje Region,32921
+478,2014-6-1,Republic of Macedonia,114792
+479,2014-6-1,Vardar Region,2737
+480,2014-6-1,East Region,1703
+481,2014-6-1,Southwest Region,57619
+482,2014-6-1,Southeast Region,9085
+483,2014-6-1,Pelagonia Region,5202
+484,2014-6-1,Polog Region,1395
+485,2014-6-1,Northeast Region,458
+486,2014-6-1,Skopje Region,36593
+487,2014-7-1,Republic of Macedonia,130644
+488,2014-7-1,Vardar Region,3631
+489,2014-7-1,East Region,2160
+490,2014-7-1,Southwest Region,71202
+491,2014-7-1,Southeast Region,10998
+492,2014-7-1,Pelagonia Region,12122
+493,2014-7-1,Polog Region,2361
+494,2014-7-1,Northeast Region,722
+495,2014-7-1,Skopje Region,27448
+496,2014-8-1,Republic of Macedonia,140605
+497,2014-8-1,Vardar Region,4136
+498,2014-8-1,East Region,3135
+499,2014-8-1,Southwest Region,80607
+500,2014-8-1,Southeast Region,12199
+501,2014-8-1,Pelagonia Region,9617
+502,2014-8-1,Polog Region,2305
+503,2014-8-1,Northeast Region,940
+504,2014-8-1,Skopje Region,27666
+505,2014-9-1,Republic of Macedonia,106064
+506,2014-9-1,Vardar Region,2619
+507,2014-9-1,East Region,2237
+508,2014-9-1,Southwest Region,55961
+509,2014-9-1,Southeast Region,7322
+510,2014-9-1,Pelagonia Region,4412
+511,2014-9-1,Polog Region,1155
+512,2014-9-1,Northeast Region,617
+513,2014-9-1,Skopje Region,31741
+514,2014-10-1,Republic of Macedonia,81960
+515,2014-10-1,Vardar Region,1927
+516,2014-10-1,East Region,1850
+517,2014-10-1,Southwest Region,35228
+518,2014-10-1,Southeast Region,6986
+519,2014-10-1,Pelagonia Region,3484
+520,2014-10-1,Polog Region,1134
+521,2014-10-1,Northeast Region,696
+522,2014-10-1,Skopje Region,30655
+523,2014-11-1,Republic of Macedonia,45323
+524,2014-11-1,Vardar Region,1096
+525,2014-11-1,East Region,3122
+526,2014-11-1,Southwest Region,7719
+527,2014-11-1,Southeast Region,8211
+528,2014-11-1,Pelagonia Region,2395
+529,2014-11-1,Polog Region,1263
+530,2014-11-1,Northeast Region,459
+531,2014-11-1,Skopje Region,21058
+532,2014-12-1,Republic of Macedonia,37022
+533,2014-12-1,Vardar Region,746
+534,2014-12-1,East Region,1428
+535,2014-12-1,Southwest Region,7741
+536,2014-12-1,Southeast Region,6517
+537,2014-12-1,Pelagonia Region,2063
+538,2014-12-1,Polog Region,1839
+539,2014-12-1,Northeast Region,288
+540,2014-12-1,Skopje Region,16400
+541,2015-1-1,Republic of Macedonia,35242
+542,2015-1-1,Vardar Region,898
+543,2015-1-1,East Region,1058
+544,2015-1-1,Southwest Region,5451
+545,2015-1-1,Southeast Region,5664
+546,2015-1-1,Pelagonia Region,1717
+547,2015-1-1,Polog Region,5700
+548,2015-1-1,Northeast Region,336
+549,2015-1-1,Skopje Region,14418
+550,2015-2-1,Republic of Macedonia,38302
+551,2015-2-1,Vardar Region,843
+552,2015-2-1,East Region,1296
+553,2015-2-1,Southwest Region,4412
+554,2015-2-1,Southeast Region,6115
+555,2015-2-1,Pelagonia Region,1756
+556,2015-2-1,Polog Region,6125
+557,2015-2-1,Northeast Region,754
+558,2015-2-1,Skopje Region,17001
+559,2015-3-1,Republic of Macedonia,45803
+560,2015-3-1,Vardar Region,1289
+561,2015-3-1,East Region,1705
+562,2015-3-1,Southwest Region,6555
+563,2015-3-1,Southeast Region,6094
+564,2015-3-1,Pelagonia Region,2127
+565,2015-3-1,Polog Region,3150
+566,2015-3-1,Northeast Region,451
+567,2015-3-1,Skopje Region,24432
+568,2015-4-1,Republic of Macedonia,64810
+569,2015-4-1,Vardar Region,1502
+570,2015-4-1,East Region,2095
+571,2015-4-1,Southwest Region,20596
+572,2015-4-1,Southeast Region,7599
+573,2015-4-1,Pelagonia Region,2610
+574,2015-4-1,Polog Region,1609
+575,2015-4-1,Northeast Region,643
+576,2015-4-1,Skopje Region,28156
+577,2015-5-1,Republic of Macedonia,110158
+578,2015-5-1,Vardar Region,2064
+579,2015-5-1,East Region,1683
+580,2015-5-1,Southwest Region,58065
+581,2015-5-1,Southeast Region,6796
+582,2015-5-1,Pelagonia Region,3306
+583,2015-5-1,Polog Region,1539
+584,2015-5-1,Northeast Region,1007
+585,2015-5-1,Skopje Region,35698
+586,2015-6-1,Republic of Macedonia,112751
+587,2015-6-1,Vardar Region,2793
+588,2015-6-1,East Region,1725
+589,2015-6-1,Southwest Region,60759
+590,2015-6-1,Southeast Region,7504
+591,2015-6-1,Pelagonia Region,5560
+592,2015-6-1,Polog Region,1528
+593,2015-6-1,Northeast Region,1193
+594,2015-6-1,Skopje Region,31689
+595,2015-7-1,Republic of Macedonia,145311
+596,2015-7-1,Vardar Region,3849
+597,2015-7-1,East Region,2594
+598,2015-7-1,Southwest Region,84995
+599,2015-7-1,Southeast Region,9099
+600,2015-7-1,Pelagonia Region,10010
+601,2015-7-1,Polog Region,2917
+602,2015-7-1,Northeast Region,1401
+603,2015-7-1,Skopje Region,30446
+604,2015-8-1,Republic of Macedonia,175816
+605,2015-8-1,Vardar Region,4348
+606,2015-8-1,East Region,2810
+607,2015-8-1,Southwest Region,103654
+608,2015-8-1,Southeast Region,9310
+609,2015-8-1,Pelagonia Region,11338
+610,2015-8-1,Polog Region,2780
+611,2015-8-1,Northeast Region,1970
+612,2015-8-1,Skopje Region,39606
+613,2015-9-1,Republic of Macedonia,131864
+614,2015-9-1,Vardar Region,4228
+615,2015-9-1,East Region,2255
+616,2015-9-1,Southwest Region,67893
+617,2015-9-1,Southeast Region,7621
+618,2015-9-1,Pelagonia Region,4995
+619,2015-9-1,Polog Region,1643
+620,2015-9-1,Northeast Region,1711
+621,2015-9-1,Skopje Region,41518
+622,2015-10-1,Republic of Macedonia,84816
+623,2015-10-1,Vardar Region,1719
+624,2015-10-1,East Region,1972
+625,2015-10-1,Southwest Region,28022
+626,2015-10-1,Southeast Region,7390
+627,2015-10-1,Pelagonia Region,3826
+628,2015-10-1,Polog Region,1346
+629,2015-10-1,Northeast Region,1599
+630,2015-10-1,Skopje Region,38942
+631,2015-11-1,Republic of Macedonia,49308
+632,2015-11-1,Vardar Region,1408
+633,2015-11-1,East Region,1155
+634,2015-11-1,Southwest Region,7339
+635,2015-11-1,Southeast Region,7282
+636,2015-11-1,Pelagonia Region,3251
+637,2015-11-1,Polog Region,1340
+638,2015-11-1,Northeast Region,671
+639,2015-11-1,Skopje Region,26862
+640,2015-12-1,Republic of Macedonia,42202
+641,2015-12-1,Vardar Region,889
+642,2015-12-1,East Region,1397
+643,2015-12-1,Southwest Region,8713
+644,2015-12-1,Southeast Region,5815
+645,2015-12-1,Pelagonia Region,2348
+646,2015-12-1,Polog Region,1856
+647,2015-12-1,Northeast Region,630
+648,2015-12-1,Skopje Region,20554
+649,2016-1-1,Republic of Macedonia,40052
+650,2016-1-1,Vardar Region,864
+651,2016-1-1,East Region,1155
+652,2016-1-1,Southwest Region,6383
+653,2016-1-1,Southeast Region,5109
+654,2016-1-1,Pelagonia Region,/2020
+655,2016-1-1,Polog Region,5407
+656,2016-1-1,Northeast Region,434
+657,2016-1-1,Skopje Region,18680
+658,2016-2-1,Republic of Macedonia,43639
+659,2016-2-1,Vardar Region,1086
+660,2016-2-1,East Region,1186
+661,2016-2-1,Southwest Region,5399
+662,2016-2-1,Southeast Region,6603
+663,2016-2-1,Pelagonia Region,2039
+664,2016-2-1,Polog Region,4510
+665,2016-2-1,Northeast Region,404
+666,2016-2-1,Skopje Region,22412
+667,2016-3-1,Republic of Macedonia,53707
+668,2016-3-1,Vardar Region,1643
+669,2016-3-1,East Region,1987
+670,2016-3-1,Southwest Region,8570
+671,2016-3-1,Southeast Region,8179
+672,2016-3-1,Pelagonia Region,2644
+673,2016-3-1,Polog Region,2292
+674,2016-3-1,Northeast Region,546
+675,2016-3-1,Skopje Region,27846
+676,2016-4-1,Republic of Macedonia,69930
+677,2016-4-1,Vardar Region,1700
+678,2016-4-1,East Region,1846
+679,2016-4-1,Southwest Region,22150
+680,2016-4-1,Southeast Region,7275
+681,2016-4-1,Pelagonia Region,2375
+682,2016-4-1,Polog Region,1307
+683,2016-4-1,Northeast Region,596
+684,2016-4-1,Skopje Region,32681
+685,2016-5-1,Republic of Macedonia,110530
+686,2016-5-1,Vardar Region,1737
+687,2016-5-1,East Region,1903
+688,2016-5-1,Southwest Region,50515
+689,2016-5-1,Southeast Region,8211
+690,2016-5-1,Pelagonia Region,3454
+691,2016-5-1,Polog Region,1583
+692,2016-5-1,Northeast Region,713
+693,2016-5-1,Skopje Region,42414
+694,2016-6-1,Republic of Macedonia,110988
+695,2016-6-1,Vardar Region,2853
+696,2016-6-1,East Region,1682
+697,2016-6-1,Southwest Region,57962
+698,2016-6-1,Southeast Region,7905
+699,2016-6-1,Pelagonia Region,4000
+700,2016-6-1,Polog Region,1424
+701,2016-6-1,Northeast Region,783
+702,2016-6-1,Skopje Region,34379
+703,2016-7-1,Republic of Macedonia,153328
+704,2016-7-1,Vardar Region,4622
+705,2016-7-1,East Region,2815
+706,2016-7-1,Southwest Region,85724
+707,2016-7-1,Southeast Region,10521
+708,2016-7-1,Pelagonia Region,9682
+709,2016-7-1,Polog Region,2350
+710,2016-7-1,Northeast Region,1614
+711,2016-7-1,Skopje Region,36000
+712,2016-8-1,Republic of Macedonia,151508
+713,2016-8-1,Vardar Region,4214
+714,2016-8-1,East Region,2557
+715,2016-8-1,Southwest Region,87669
+716,2016-8-1,Southeast Region,9482
+717,2016-8-1,Pelagonia Region,8425
+718,2016-8-1,Polog Region,1820
+719,2016-8-1,Northeast Region,1994
+720,2016-8-1,Skopje Region,35347
+721,2016-9-1,Republic of Macedonia,133256
+722,2016-9-1,Vardar Region,2841
+723,2016-9-1,East Region,2718
+724,2016-9-1,Southwest Region,69559
+725,2016-9-1,Southeast Region,9820
+726,2016-9-1,Pelagonia Region,5418
+727,2016-9-1,Polog Region,1679
+728,2016-9-1,Northeast Region,838
+729,2016-9-1,Skopje Region,40383
+730,2016-10-1,Republic of Macedonia,90249
+731,2016-10-1,Vardar Region,1511
+732,2016-10-1,East Region,1542
+733,2016-10-1,Southwest Region,35347
+734,2016-10-1,Southeast Region,8071
+735,2016-10-1,Pelagonia Region,4478
+736,2016-10-1,Polog Region,1403
+737,2016-10-1,Northeast Region,839
+738,2016-10-1,Skopje Region,37058
+739,2016-11-1,Republic of Macedonia,49354
+740,2016-11-1,Vardar Region,1075
+741,2016-11-1,East Region,1300
+742,2016-11-1,Southwest Region,9484
+743,2016-11-1,Southeast Region,6591
+744,2016-11-1,Pelagonia Region,3574
+745,2016-11-1,Polog Region,1219
+746,2016-11-1,Northeast Region,599
+747,2016-11-1,Skopje Region,25512
+748,2016-12-1,Republic of Macedonia,47476
+749,2016-12-1,Vardar Region,940
+750,2016-12-1,East Region,1179
+751,2016-12-1,Southwest Region,11666
+752,2016-12-1,Southeast Region,7194
+753,2016-12-1,Pelagonia Region,3016
+754,2016-12-1,Polog Region,2709
+755,2016-12-1,Northeast Region,926
+756,2016-12-1,Skopje Region,19846
+757,2017-1-1,Republic of Macedonia,46137
+758,2017-1-1,Vardar Region,989
+759,2017-1-1,East Region,844
+760,2017-1-1,Southwest Region,7924
+761,2017-1-1,Southeast Region,7031
+762,2017-1-1,Pelagonia Region,2556
+763,2017-1-1,Polog Region,6343
+764,2017-1-1,Northeast Region,340
+765,2017-1-1,Skopje Region,20110
+766,2017-2-1,Republic of Macedonia,51427
+767,2017-2-1,Vardar Region,1368
+768,2017-2-1,East Region,905
+769,2017-2-1,Southwest Region,8181
+770,2017-2-1,Southeast Region,7189
+771,2017-2-1,Pelagonia Region,3300
+772,2017-2-1,Polog Region,5428
+773,2017-2-1,Northeast Region,422
+774,2017-2-1,Skopje Region,24634
+775,2017-3-1,Republic of Macedonia,55427
+776,2017-3-1,Vardar Region,1075
+777,2017-3-1,East Region,1646
+778,2017-3-1,Southwest Region,8832
+779,2017-3-1,Southeast Region,8745
+780,2017-3-1,Pelagonia Region,3533
+781,2017-3-1,Polog Region,1345
+782,2017-3-1,Northeast Region,904
+783,2017-3-1,Skopje Region,29347
+784,2017-4-1,Republic of Macedonia,84676
+785,2017-4-1,Vardar Region,2058
+786,2017-4-1,East Region,1699
+787,2017-4-1,Southwest Region,28510
+788,2017-4-1,Southeast Region,8776
+789,2017-4-1,Pelagonia Region,3754
+790,2017-4-1,Polog Region,1514
+791,2017-4-1,Northeast Region,842
+792,2017-4-1,Skopje Region,37523
+793,2017-5-1,Republic of Macedonia,121345
+794,2017-5-1,Vardar Region,2419
+795,2017-5-1,East Region,1919
+796,2017-5-1,Southwest Region,53630
+797,2017-5-1,Southeast Region,8701
+798,2017-5-1,Pelagonia Region,5455
+799,2017-5-1,Polog Region,1649
+800,2017-5-1,Northeast Region,879
+801,2017-5-1,Skopje Region,46693
+802,2017-6-1,Republic of Macedonia,131193
+803,2017-6-1,Vardar Region,3326
+804,2017-6-1,East Region,2075
+805,2017-6-1,Southwest Region,65306
+806,2017-6-1,Southeast Region,9207
+807,2017-6-1,Pelagonia Region,5903
+808,2017-6-1,Polog Region,1715
+809,2017-6-1,Northeast Region,1437
+810,2017-6-1,Skopje Region,42224
+811,2017-7-1,Republic of Macedonia,194406
+812,2017-7-1,Vardar Region,5882
+813,2017-7-1,East Region,2308
+814,2017-7-1,Southwest Region,107960
+815,2017-7-1,Southeast Region,11755
+816,2017-7-1,Pelagonia Region,10956
+817,2017-7-1,Polog Region,2999
+818,2017-7-1,Northeast Region,2216
+819,2017-7-1,Skopje Region,50330
+820,2017-8-1,Republic of Macedonia,214977
+821,2017-8-1,Vardar Region,4361
+822,2017-8-1,East Region,2900
+823,2017-8-1,Southwest Region,119799
+824,2017-8-1,Southeast Region,10729
+825,2017-8-1,Pelagonia Region,11263
+826,2017-8-1,Polog Region,2940
+827,2017-8-1,Northeast Region,2209
+828,2017-8-1,Skopje Region,60776
+829,2017-9-1,Republic of Macedonia,163621
+830,2017-9-1,Vardar Region,3080
+831,2017-9-1,East Region,2779
+832,2017-9-1,Southwest Region,75636
+833,2017-9-1,Southeast Region,9157
+834,2017-9-1,Pelagonia Region,5865
+835,2017-9-1,Polog Region,2300
+836,2017-9-1,Northeast Region,1591
+837,2017-9-1,Skopje Region,63213
+838,2017-10-1,Republic of Macedonia,104118
+839,2017-10-1,Vardar Region,2522
+840,2017-10-1,East Region,2726
+841,2017-10-1,Southwest Region,35536
+842,2017-10-1,Southeast Region,8891
+843,2017-10-1,Pelagonia Region,6954
+844,2017-10-1,Polog Region,2433
+845,2017-10-1,Northeast Region,1027
+846,2017-10-1,Skopje Region,44029
+847,2017-11-1,Republic of Macedonia,67056
+848,2017-11-1,Vardar Region,1531
+849,2017-11-1,East Region,2437
+850,2017-11-1,Southwest Region,12885
+851,2017-11-1,Southeast Region,8202
+852,2017-11-1,Pelagonia Region,5147
+853,2017-11-1,Polog Region,1352
+854,2017-11-1,Northeast Region,1045
+855,2017-11-1,Skopje Region,34457
+856,2017-12-1,Republic of Macedonia,60309
+857,2017-12-1,Vardar Region,1105
+858,2017-12-1,East Region,2399
+859,2017-12-1,Southwest Region,14711
+860,2017-12-1,Southeast Region,7535
+861,2017-12-1,Pelagonia Region,3751
+862,2017-12-1,Polog Region,2774
+863,2017-12-1,Northeast Region,1012
+864,2017-12-1,Skopje Region,27022
+865,2018-1-1,Republic of Macedonia,60879
+866,2018-1-1,Vardar Region,1130
+867,2018-1-1,East Region,1976
+868,2018-1-1,Southwest Region,10138
+869,2018-1-1,Southeast Region,6652
+870,2018-1-1,Pelagonia Region,3536
+871,2018-1-1,Polog Region,7974
+872,2018-1-1,Northeast Region,568
+873,2018-1-1,Skopje Region,28905
+874,2018-2-1,Republic of Macedonia,53632
+875,2018-2-1,Vardar Region,1172
+876,2018-2-1,East Region,2066
+877,2018-2-1,Southwest Region,6711
+878,2018-2-1,Southeast Region,7915
+879,2018-2-1,Pelagonia Region,3851
+880,2018-2-1,Polog Region,6725
+881,2018-2-1,Northeast Region,405
+882,2018-2-1,Skopje Region,24787
+883,2018-3-1,Republic of Macedonia,71217
+884,2018-3-1,Vardar Region,1718
+885,2018-3-1,East Region,1716
+886,2018-3-1,Southwest Region,15163
+887,2018-3-1,Southeast Region,8957
+888,2018-3-1,Pelagonia Region,5227
+889,2018-3-1,Polog Region,1838
+890,2018-3-1,Northeast Region,938
+891,2018-3-1,Skopje Region,35660
+892,2018-4-1,Republic of Macedonia,105405
+893,2018-4-1,Vardar Region,1589
+894,2018-4-1,East Region,2240
+895,2018-4-1,Southwest Region,35252
+896,2018-4-1,Southeast Region,9243
+897,2018-4-1,Pelagonia Region,6961
+898,2018-4-1,Polog Region,1814
+899,2018-4-1,Northeast Region,680
+900,2018-4-1,Skopje Region,47626
+901,2018-5-1,Republic of Macedonia,136352
+902,2018-5-1,Vardar Region,2215
+903,2018-5-1,East Region,2718
+904,2018-5-1,Southwest Region,54376
+905,2018-5-1,Southeast Region,7932
+906,2018-5-1,Pelagonia Region,9208
+907,2018-5-1,Polog Region,1752
+908,2018-5-1,Northeast Region,846
+909,2018-5-1,Skopje Region,57305
+910,2018-6-1,Republic of Macedonia,169876
+911,2018-6-1,Vardar Region,3152
+912,2018-6-1,East Region,2298
+913,2018-6-1,Southwest Region,92601
+914,2018-6-1,Southeast Region,9428
+915,2018-6-1,Pelagonia Region,9751
+916,2018-6-1,Polog Region,/2019
+917,2018-6-1,Northeast Region,1152
+918,2018-6-1,Skopje Region,49475
+919,2018-7-1,Republic of Macedonia,232402
+920,2018-7-1,Vardar Region,5390
+921,2018-7-1,East Region,3361
+922,2018-7-1,Southwest Region,129397
+923,2018-7-1,Southeast Region,12254
+924,2018-7-1,Pelagonia Region,15695
+925,2018-7-1,Polog Region,3775
+926,2018-7-1,Northeast Region,1431
+927,2018-7-1,Skopje Region,61099
+928,2018-8-1,Republic of Macedonia,231398
+929,2018-8-1,Vardar Region,4176
+930,2018-8-1,East Region,3097
+931,2018-8-1,Southwest Region,135268
+932,2018-8-1,Southeast Region,10716
+933,2018-8-1,Pelagonia Region,16356
+934,2018-8-1,Polog Region,3414
+935,2018-8-1,Northeast Region,1246
+936,2018-8-1,Skopje Region,57125
+937,2018-9-1,Republic of Macedonia,176671
+938,2018-9-1,Vardar Region,2737
+939,2018-9-1,East Region,3092
+940,2018-9-1,Southwest Region,88507
+941,2018-9-1,Southeast Region,9103
+942,2018-9-1,Pelagonia Region,12666
+943,2018-9-1,Polog Region,2365
+944,2018-9-1,Northeast Region,1178
+945,2018-9-1,Skopje Region,57023
+946,2018-10-1,Republic of Macedonia,113568
+947,2018-10-1,Vardar Region,1863
+948,2018-10-1,East Region,2431
+949,2018-10-1,Southwest Region,35582
+950,2018-10-1,Southeast Region,8707
+951,2018-10-1,Pelagonia Region,8931
+952,2018-10-1,Polog Region,2749
+953,2018-10-1,Northeast Region,930
+954,2018-10-1,Skopje Region,52375
+955,2018-11-1,Republic of Macedonia,71940
+956,2018-11-1,Vardar Region,1462
+957,2018-11-1,East Region,2123
+958,2018-11-1,Southwest Region,12740
+959,2018-11-1,Southeast Region,8600
+960,2018-11-1,Pelagonia Region,7587
+961,2018-11-1,Polog Region,1419
+962,2018-11-1,Northeast Region,712
+963,2018-11-1,Skopje Region,37297
+964,2018-12-1,Republic of Macedonia,68195
+965,2018-12-1,Vardar Region,773
+966,2018-12-1,East Region,2710
+967,2018-12-1,Southwest Region,15027
+968,2018-12-1,Southeast Region,8834
+969,2018-12-1,Pelagonia Region,5233
+970,2018-12-1,Polog Region,3621
+971,2018-12-1,Northeast Region,819
+972,2018-12-1,Skopje Region,31178
+973,2019-1-1,Republic of Macedonia,55770
+974,2019-1-1,Vardar Region,717
+975,2019-1-1,East Region,1345
+976,2019-1-1,Southwest Region,7405
+977,2019-1-1,Southeast Region,8367
+978,2019-1-1,Pelagonia Region,3540
+979,2019-1-1,Polog Region,9234
+980,2019-1-1,Northeast Region,314
+981,2019-1-1,Skopje Region,24848
+982,2019-2-1,Republic of Macedonia,53071
+983,2019-2-1,Vardar Region,1097
+984,2019-2-1,East Region,1571
+985,2019-2-1,Southwest Region,5043
+986,2019-2-1,Southeast Region,9076
+987,2019-2-1,Pelagonia Region,2477
+988,2019-2-1,Polog Region,8154
+989,2019-2-1,Northeast Region,549
+990,2019-2-1,Skopje Region,25104
+991,2019-3-1,Republic of Macedonia,72935
+992,2019-3-1,Vardar Region,1406
+993,2019-3-1,East Region,2176
+994,2019-3-1,Southwest Region,12709
+995,2019-3-1,Southeast Region,11245
+996,2019-3-1,Pelagonia Region,4594
+997,2019-3-1,Polog Region,3025
+998,2019-3-1,Northeast Region,943
+999,2019-3-1,Skopje Region,36837
+1000,2019-4-1,Republic of Macedonia,105495
+1001,2019-4-1,Vardar Region,1682
+1002,2019-4-1,East Region,2102
+1003,2019-4-1,Southwest Region,36403
+1004,2019-4-1,Southeast Region,10488
+1005,2019-4-1,Pelagonia Region,4035
+1006,2019-4-1,Polog Region,1963
+1007,2019-4-1,Northeast Region,737
+1008,2019-4-1,Skopje Region,48085
+1009,2019-5-1,Republic of Macedonia,139236
+1010,2019-5-1,Vardar Region,2200
+1011,2019-5-1,East Region,2714
+1012,2019-5-1,Southwest Region,62989
+1013,2019-5-1,Southeast Region,10058
+1014,2019-5-1,Pelagonia Region,7324
+1015,2019-5-1,Polog Region,2307
+1016,2019-5-1,Northeast Region,739
+1017,2019-5-1,Skopje Region,50905
+1018,2019-6-1,Republic of Macedonia,186262
+1019,2019-6-1,Vardar Region,3059
+1020,2019-6-1,East Region,2461
+1021,2019-6-1,Southwest Region,91141
+1022,2019-6-1,Southeast Region,13184
+1023,2019-6-1,Pelagonia Region,9236
+1024,2019-6-1,Polog Region,3142
+1025,2019-6-1,Northeast Region,926
+1026,2019-6-1,Skopje Region,63113
+1027,2019-7-1,Republic of Macedonia,233563
+1028,2019-7-1,Vardar Region,3855
+1029,2019-7-1,East Region,2941
+1030,2019-7-1,Southwest Region,133313
+1031,2019-7-1,Southeast Region,12861
+1032,2019-7-1,Pelagonia Region,13907
+1033,2019-7-1,Polog Region,5572
+1034,2019-7-1,Northeast Region,1389
+1035,2019-7-1,Skopje Region,59725
+1036,2019-8-1,Republic of Macedonia,248491
+1037,2019-8-1,Vardar Region,3856
+1038,2019-8-1,East Region,3127
+1039,2019-8-1,Southwest Region,142259
+1040,2019-8-1,Southeast Region,12930
+1041,2019-8-1,Pelagonia Region,11578
+1042,2019-8-1,Polog Region,4684
+1043,2019-8-1,Northeast Region,1532
+1044,2019-8-1,Skopje Region,68525
+1045,2019-9-1,Republic of Macedonia,197209
+1046,2019-9-1,Vardar Region,2990
+1047,2019-9-1,East Region,2683
+1048,2019-9-1,Southwest Region,99577
+1049,2019-9-1,Southeast Region,12571
+1050,2019-9-1,Pelagonia Region,8731
+1051,2019-9-1,Polog Region,3421
+1052,2019-9-1,Northeast Region,1045
+1053,2019-9-1,Skopje Region,66191
+1054,2019-10-1,Republic of Macedonia,129150
+1055,2019-10-1,Vardar Region,1512
+1056,2019-10-1,East Region,3013
+1057,2019-10-1,Southwest Region,45759
+1058,2019-10-1,Southeast Region,11643
+1059,2019-10-1,Pelagonia Region,7042
+1060,2019-10-1,Polog Region,2319
+1061,2019-10-1,Northeast Region,937
+1062,2019-10-1,Skopje Region,56925
+1063,2019-11-1,Republic of Macedonia,83076
+1064,2019-11-1,Vardar Region,843
+1065,2019-11-1,East Region,2063
+1066,2019-11-1,Southwest Region,16985
+1067,2019-11-1,Southeast Region,11324
+1068,2019-11-1,Pelagonia Region,4929
+1069,2019-11-1,Polog Region,1794
+1070,2019-11-1,Northeast Region,814
+1071,2019-11-1,Skopje Region,44324
+1072,2019-12-1,Republic of Macedonia,73513
+1073,2019-12-1,Vardar Region,817
+1074,2019-12-1,East Region,2135
+1075,2019-12-1,Southwest Region,18155
+1076,2019-12-1,Southeast Region,9613
+1077,2019-12-1,Pelagonia Region,3061
+1078,2019-12-1,Polog Region,3010
+1079,2019-12-1,Northeast Region,1136
+1080,2019-12-1,Skopje Region,35586
+1081,2020-1-1,Republic of Macedonia,62122
+1082,2020-1-1,Vardar Region,485
+1083,2020-1-1,East Region,1457
+1084,2020-1-1,Southwest Region,11183
+1085,2020-1-1,Southeast Region,9415
+1086,2020-1-1,Pelagonia Region,2403
+1087,2020-1-1,Polog Region,8554
+1088,2020-1-1,Northeast Region,677
+1089,2020-1-1,Skopje Region,27948
+1090,2020-2-1,Republic of Macedonia,55857
+1091,2020-2-1,Vardar Region,707
+1092,2020-2-1,East Region,1843
+1093,2020-2-1,Southwest Region,9775
+1094,2020-2-1,Southeast Region,8963
+1095,2020-2-1,Pelagonia Region,2473
+1096,2020-2-1,Polog Region,6641
+1097,2020-2-1,Northeast Region,318
+1098,2020-2-1,Skopje Region,25137
+1099,2020-3-1,Republic of Macedonia,22151
+1100,2020-3-1,Vardar Region,292
+1101,2020-3-1,East Region,639
+1102,2020-3-1,Southwest Region,3869
+1103,2020-3-1,Southeast Region,5750
+1104,2020-3-1,Pelagonia Region,1017
+1105,2020-3-1,Polog Region,877
+1106,2020-3-1,Northeast Region,82
+1107,2020-3-1,Skopje Region,9625
+1108,2020-4-1,Republic of Macedonia,2332
+1109,2020-4-1,Vardar Region,0
+1110,2020-4-1,East Region,0
+1111,2020-4-1,Southwest Region,40
+1112,2020-4-1,Southeast Region,1646
+1113,2020-4-1,Pelagonia Region,116
+1114,2020-4-1,Polog Region,0
+1115,2020-4-1,Northeast Region,0
+1116,2020-4-1,Skopje Region,530
+1117,2020-5-1,Republic of Macedonia,2744
+1118,2020-5-1,Vardar Region,0
+1119,2020-5-1,East Region,0
+1120,2020-5-1,Southwest Region,31
+1121,2020-5-1,Southeast Region,2105
+1122,2020-5-1,Pelagonia Region,6
+1123,2020-5-1,Polog Region,0
+1124,2020-5-1,Northeast Region,0
+1125,2020-5-1,Skopje Region,602
+1126,2020-6-1,Republic of Macedonia,6374
+1127,2020-6-1,Vardar Region,561
+1128,2020-6-1,East Region,315
+1129,2020-6-1,Southwest Region,251
+1130,2020-6-1,Southeast Region,2208
+1131,2020-6-1,Pelagonia Region,76
+1132,2020-6-1,Polog Region,1162
+1133,2020-6-1,Northeast Region,5
+1134,2020-6-1,Skopje Region,1796
